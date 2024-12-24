@@ -39,8 +39,8 @@
 
 <h2 align="center">🌟 Featured Project</h2>
 <p align="center">
-  <a href="https://github.com/BinaryBond/CSS_WEBSITE.git">
-    <img src="https://via.placeholder.com/900x500/007BFF/FFFFFF?text=CSS_WEBSITE+Preview" alt="CSS_WEBSITE Preview" width="80%" style="border-radius: 10px;"/>
+  <a href="https://github.com/BinaryBond/GRASP.git">
+    <img src="https://via.placeholder.com/900x500/007BFF/FFFFFF?text=GRASP+Preview" alt="GRASP Preview" width="80%" style="border-radius: 10px;"/>
   </a>
 </p>
 <p align="center" style="color: #6c757d;">
